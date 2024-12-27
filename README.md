@@ -6,8 +6,7 @@
 
 ## Функционал
 
-- Модель построенная на неронной сети tensorflow классифицирует объекты на классы ('AnnualCrop', 'Forest', 'HerbaceousVegetation', 'Highway', 'Industrial',
-- 'Pasture', 'PermanentCrop', 'Residential', 'River', 'SeaLake')
+- Модель построенная на неронной сети tensorflow классифицирует объекты на классы ('AnnualCrop', 'Forest', 'HerbaceousVegetation', 'Highway', 'Industrial', 'Pasture', 'PermanentCrop', 'Residential', 'River', 'SeaLake')
 - Далее алгоритм на основе индекса структурного сходства Сравнивает два входных изображения и вычисляет процент их сходства.
 - Выделяет области изменений между двумя изображениями.
 - Генерирует визуальные результаты:
@@ -26,11 +25,9 @@
 - `scikit-image`
 - `opencv-python`
 - `numpy`
-- from kaggle_datasets
-- import KaggleDatasets
-- import tensorflow as tf, re, math
-- import efficientnet.tfkeras as efn
-- import tensorflow.keras.backend as K
+- KaggleDatasets
+- tensorflow
+- tensorflow
 
 Установите их с помощью pip:
 
