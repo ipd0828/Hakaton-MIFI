@@ -25,9 +25,9 @@
 - `scikit-image`
 - `opencv-python`
 - `numpy`
-- KaggleDatasets
-- tensorflow
-- tensorflow
+- `KaggleDatasets`
+- `tensorflow`
+- `tensorflow`
 
 Установите их с помощью pip:
 
